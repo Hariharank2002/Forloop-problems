@@ -1,3 +1,4 @@
+# using for for loop and if condition 
 n = 25
 unitdigit = n % 10
 for i in range (1,unitdigit + 1):
